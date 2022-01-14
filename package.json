@@ -1,6 +1,6 @@
 {
-  "name": "mfirebase",
-  "version": "1.0.0",
+  "name": "@9r3i/mfirebase",
+  "version": "1.0.0-4",
   "description": "Mobile Firebase",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "url": "https://github.com/9r3i/mfirebase/issues"
   },
   "homepage": "https://github.com/9r3i/mfirebase#readme",
-  "devDependencies": {
-    "firebase": "^9.6.3",
+  "dependencies": {
+    "firebase": "^9.6.3"
   }
 }

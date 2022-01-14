@@ -5,7 +5,7 @@
 [![Stars](https://img.shields.io/github/stars/9r3i/mfirebase.svg)](https://github.com/9r3i/mfirebase/stargazers)
 [![Issues](https://img.shields.io/github/issues/9r3i/mfirebase.svg)](https://github.com/9r3i/mfirebase/issues)
 [![Release](https://img.shields.io/github/release/9r3i/mfirebase.svg)](https://github.com/9r3i/mfirebase/releases)
-[![Package](https://img.shields.io/npm/v/mfirebase.svg?label=npm)](https://www.npmjs.com/package/mfirebase)
+[![Package](https://img.shields.io/npm/v/@9r3i/mfirebase.svg?label=npm)](https://www.npmjs.com/package/@9r3i/mfirebase)
 
 
 # Mobile Firebase

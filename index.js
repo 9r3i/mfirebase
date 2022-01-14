@@ -1,9 +1,4 @@
 
-import { initializeApp } from "firebase/app";
-import { getAnalytics } from "firebase/analytics";
-import { getStorage, ref, uploadString, getDownloadURL } from "firebase/storage";
-import { getDatabase, ref as dbRef, set as dbSet, get as dbGet, child as dbChild } from "firebase/database";
-import { getAuth, signInWithEmailAndPassword, createUserWithEmailAndPassword, signOut } from "firebase/auth";
 
 module.exports=function MFirebase(){
 const _mfirebase={
