@@ -27,7 +27,7 @@ Firebase.init(firebaseConfig);
 
 # Installation
 ```
-npm i mfirebase
+npm i @9r3i/mfirebase
 ```
 
 
